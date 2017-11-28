@@ -17,3 +17,5 @@ face_generation/data/
 seq2seq/best_model.ckpt.meta
 seq2seq/best_model.ckpt.index
 seq2seq/best_model.ckpt.data-00000-of-00001
+*.gz
+*.gz
